@@ -3,8 +3,8 @@
 ## User Story
 
 ## Deployed Links
-> link 1
-> link 2
+> https://github.com/njacques47/task-it
+> https://njacques47.github.io/task-it/
 
 ----------------------
 ## Notes
