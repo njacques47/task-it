@@ -23,7 +23,11 @@ Once the document is selected, we can access all the descendant objects to inter
 
 #### Interacting with the DOM
 
-By dynamically generating HTML and dynamically styling, new elements can be created and attached to the page and maintain styling.
+By dynamically generating HTML and dynamically styling, new elements can be created and attached to the page and maintain styling.    
+
+when retrieving or reading data from an object's property, that is considered `getting`. Information that we provide and store data, that's `setting`. These are JS verbs.      
+
+`innerHTML` vs. `textContent`. The biggest difference is that `innerHTML` will read html tags and translate that to a DOM object
 
 ### Event Handlers & Listeners
 
@@ -35,6 +39,7 @@ buttonEl.addEventListener("click", function() {
   alert("button clicked");
 });
 ```  
+
 
 ### Callback Functions
 
